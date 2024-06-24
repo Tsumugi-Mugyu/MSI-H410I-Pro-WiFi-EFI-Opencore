@@ -15,5 +15,6 @@ PSU:   Thermaltake SFX 600W
 CASE:  Fractal Design Era ITX
 ```  
 Selected Model: iMac 20,1  
-IGPU calculate only  
+IGPU calculate only
 important reminder: Remember to change SMBIOS before install system or do not log in your Apple ID before change SMBIOS.  
+Recommend to build your own UTBMap.kext, otherwise USB speed and sleep problems may occur.
