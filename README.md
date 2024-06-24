@@ -1,7 +1,8 @@
 # MSI-H410I-Pro-WiFi-EFI-Opencore  
 ##Hackintosh/MSI H410I Pro WiFi  Opencore: 1.0.0  
 ##黑苹果/微星H410I Pro WiFi EFI  Opencore版本: 1.0.0  
-```  
+```
+macOS: Ventura 13.6.7  
 Specs:  
 CPU:   Intel Core i9 10900K   
 MB:    MSI H410I Pro WiFi  
