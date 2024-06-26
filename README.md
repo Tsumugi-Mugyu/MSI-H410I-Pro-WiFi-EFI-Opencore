@@ -1,6 +1,6 @@
 # MSI-H410I-Pro-WiFi-EFI-Opencore  
-## Hackintosh/MSI H410I Pro WiFi  Opencore: 1.0.0  
-## 黑苹果/微星H410I Pro WiFi EFI  Opencore版本: 1.0.0  
+Hackintosh/MSI H410I Pro WiFi  Opencore: 1.0.0  
+黑苹果/微星H410I Pro WiFi EFI  Opencore版本: 1.0.0  
 <img width="445" alt="Screenshot 2024-06-24 at 11 50 33" src="https://github.com/Tsumugi-Mugyu/MSI-H410I-Pro-WiFi-EFI-Opencore/assets/173649836/3ea6f1d1-a9b3-4db3-b312-c696df767815">  
 <img width="316" alt="Screenshot 2024-06-24 at 11 53 58" src="https://github.com/Tsumugi-Mugyu/MSI-H410I-Pro-WiFi-EFI-Opencore/assets/173649836/b2f4cf4f-54fb-40e4-8972-5a0c4559ea15">  
 ```
