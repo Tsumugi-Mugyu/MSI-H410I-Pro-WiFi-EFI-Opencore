@@ -16,7 +16,7 @@ SSD:
        Nvme: None  
 PSU:   Thermaltake SFX 600W  
 CASE:  Fractal Design Era ITX
-```  
+```
 Selected Model: iMac 20,1  
   
 IGPU calculation only.  
